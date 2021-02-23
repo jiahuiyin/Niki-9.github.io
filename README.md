@@ -1,4 +1,4 @@
-Liam_note.github.io
+https://liamy404.github.io/
 # 个人简历（上海师范大学）
 ## 基本信息
 ### 姓名：张珂奇
