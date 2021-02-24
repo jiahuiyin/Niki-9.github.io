@@ -3,4 +3,4 @@
 
 ### •  [introduction(业务介绍)](post/2021-2-24-intro.md)
 
-### •  [project(成果展示)](post/2021-2-24-picture.md)
+### •  [project(成果展示)](post/2021-2-24-pictures.md)
