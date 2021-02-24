@@ -1,3 +1,3 @@
 # 三维
 ## 工业零件
-## ![示例1](http://imgtech.gmw.cn/attachement/jpg/site2/20111223/f04da22d7ba7105e1d7507.jpg）
+## ![示例1](https://github.com/Niki-9/Niki-9.github.io/blob/main/download_20201123210824.jpg)
